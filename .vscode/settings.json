@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SpetsShooter.sln"
+    "dotnet.defaultSolution": "2dshooterbase6.2.sln"
 }
